@@ -21,8 +21,8 @@
 
     <section id="home">
         <h1>Welcome to My Portfolio</h1>
-        <img src="Photo.jpg" // Add the image title as photo.jpg in your Task folder// alt="Mandar Phatak" class="profile-photo">
-        <p>Hello! I’m Mandar Phatak, a passionate web developer currently in my final year of pursuing a Bachelor's degree in Technology (B.Tech) at Dr Babasaheb Ambedkar Technological University. With a strong foundation in front-end and back-end development, I thrive on creating dynamic, user-friendly web applications that solve real-world problems.</p>
+        <img src="Photo.jpg" // Add the image title as photo.jpg in your Task folder// alt="HARESH UNDARE" class="profile-photo">
+        <p>Hello! I’m HARESH UNDARE, a passionate web developer currently in my final year of pursuing a Bachelor's degree in Technology (B.Tech) at Dr Babasaheb Ambedkar Technological University. With a strong foundation in front-end and back-end development, I thrive on creating dynamic, user-friendly web applications that solve real-world problems.</p>
     </section>
 
     <section id="about">
@@ -79,7 +79,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Mandar Phatak. All Rights Reserved.</p>
+        <p>&copy; 2024 HARESH UNDARE. All Rights Reserved.</p>
     </footer>
 
     <script src="script.js"></script>
